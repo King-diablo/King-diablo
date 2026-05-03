@@ -1,70 +1,53 @@
-<br clear="both">
-
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
-<h3 align="left">Am a Backend developer and game developer focused on building scalable, high-performance systems. I enjoy designing clean architectures, optimizing performance, and experimenting with new technologies to solve real-world problems.</h3>
-
-###
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Chikeluba%20Obiora-Eze&fontSize=50&fontColor=fff&animation=fadeIn)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="60" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+
+### Software Engineer | Nigeria
+
+I'm a passionate software engineer with a flair for crafting captivating games and tackling complex challenges. When I'm not immersed in code, I'm exploring the latest gaming technologies or embarking on exciting new projects.
+
 </div>
 
-###
+---
 
-<br clear="both">
+### 💻 Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![lua](https://img.shields.io/badge/lua-333?style=for-the-badge&logo=lua&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![unity](https://img.shields.io/badge/unity-333?style=for-the-badge&logo=unity&logoColor=white) ![.net](https://img.shields.io/badge/.net-333?style=for-the-badge&logo=dotnet&logoColor=white) ![node](https://img.shields.io/badge/node-333?style=for-the-badge&logo=node&logoColor=white) ![sql](https://img.shields.io/badge/sql-333?style=for-the-badge&logo=sql&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=King-diablo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=King-diablo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
 </div>
 
-###
+---
 
-<br clear="both">
+### 🌱 Currently
+
+- 📚 Learning: **Currently diving into game development frameworks to elevate my projects and unleash my creativity.**
+- 🤝 Open to collaborate on: **I’m eager to collaborate on game development projects, interactive web applications, or innovative tech challenges that push boundaries.**
+- 💬 Ask me about: **game development, backend development, or the future of gaming technology**
+
+---
+
+### 📫 Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=king-diablo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=king-diablo&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=king-diablo&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goldengamesstars@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/King-diablo)
+
 </div>
 
-###
+<div align="center">
 
-<br clear="both">
+⚡ I love turning ideas into immersive experiences. If you could design any game, what would it be?
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/king-diablo/king-diablo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/king-diablo/king-diablo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/king-diablo/king-diablo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=true&text=Kingdiablo&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
 </div>
 
-###
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
